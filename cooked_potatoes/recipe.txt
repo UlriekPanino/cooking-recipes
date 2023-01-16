@@ -2,4 +2,8 @@ Cook those potatoes, you dummy!
 
 EDIT: yeah ok, maybe add some salt and erbs
 
+
 ADDITION: serve with love, eat
+
+=======
+EDIT 4: this should be clear, but there should be a conflict in ingredients.txt
